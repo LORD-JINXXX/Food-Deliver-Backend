@@ -18,8 +18,8 @@
 
 ## Installation
 
-#### Clone this repository: git clone https://github.com/yourusername/food-delivery-backend.git
-#### Navigate to the project directory: cd food-delivery-backend
+#### Clone this repository: git clone https://github.com/LORD-JINXXX/Food-Deliver-Backend.git
+#### Navigate to the project directory: cd food-deliver-backend
 #### Install dependencies: npm install
 
 ## Configuration
